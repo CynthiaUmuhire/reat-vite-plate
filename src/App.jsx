@@ -1,11 +1,11 @@
 // import { useState } from 'react'
-
+import DogPics from "./components/DogPics"
 
 function App() {
 
   return (
     <>
-      <p className="bg-black text-green-300">hellp</p>
+    <DogPics/>
     </>
   )
 }
